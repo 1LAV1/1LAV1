@@ -7,8 +7,9 @@
 - 🌱 I’m currently learning **Tensorflow , Keras ,Pytorch**
   
 - 🤝 Hi , I just made some projects
-    -  [Movie Recommender System](https://github.com/1LAV1/MOVIE-RECOMMENDER-SYSTEM)
+    -  [MOVIE RECCOMENDER SYSTEM](https://github.com/1LAV1/MOVIE-RECOMMENDER-SYSTEM)
     -  [WHATSAPP CHAT ANALYSER](https://github.com/1LAV1/WHATSAPP-CHAT-ANALYSER)
+    -   [SPAM CLASSIFIER](https://github.com/1LAV1/SMS-EMAIL-SPAM-PREDICTER))
 
 - 📫 How to reach me **lav3831@gmail.com**
 
