@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20540
-Fork on GitHub
-6305
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lav Kumar Singh</h1>
 <h3 align="center">A passionate Deep Learning Student from India</h3>
 
