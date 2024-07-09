@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/imgres?q=machine%20learning&imgurl=https%3A%2F%2Fblog.daway.in%2Fwp-content%2Fuploads%2F2024%2F01%2F1_cG6U1qstYDijh9bPL42e-Q.jpg&imgrefurl=https%3A%2F%2Fblog.daway.in%2F2024%2F01%2F18%2Fwhat-is-machine-learning%2F&docid=hJK_vffafy6y2M&tbnid=8OukywakkwfAgM&vet=12ahUKEwjjiPvJ55qHAxUWVmwGHRHKDfoQM3oECCMQAA..i&w=1280&h=800&hcb=2&ved=2ahUKEwjjiPvJ55qHAxUWVmwGHRHKDfoQM3oECCMQAA" alt="c" width="40" height="40"/>
+ <img src="Users/hp/Downloads/photo1.jpg" alt="c" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Lav Kumar Singh</h1>
 <h3 align="center">A passionate Deep Learning Student from India</h3>
 
