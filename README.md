@@ -1,4 +1,4 @@
- <img src="Users/hp/Downloads/photo1.jpg" alt="c" width="40" height="40"/>
+ <img src="file:///C:/Users/hp/Downloads/photo1.jpg" alt="c" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Lav Kumar Singh</h1>
 <h3 align="center">A passionate Deep Learning Student from India</h3>
 
