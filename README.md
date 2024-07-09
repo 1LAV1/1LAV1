@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Tensorflow , Keras ,Pytorch**
 
+- ALSO COMPLETED [WHATSAPP CHAT ANALYSER](https://github.com/1LAV1/WHATSAPP-CHAT-ANALYSER)
+
 - 📫 How to reach me **lav3831@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1lav1&show_icons=true&locale=en" alt="1lav1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1lav1&" alt="1lav1" /></p>
-
