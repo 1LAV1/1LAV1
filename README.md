@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lav Kumar Singh</h1>
 <h3 align="center">A passionate Deep Learning Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fmachine-learning-8323606&psig=AOvVaw3jy6oMR6-BERVv7U0lLJ5O&ust=1720644255566000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKi_osDpmocDFQAAAAAdAAAAABAZ](https://github.com/1LAV1/1LAV1/blob/main/gif.gif?raw=true)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Tensorflow , Keras ,Pytorch**
   
