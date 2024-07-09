@@ -1,4 +1,4 @@
- <img src="[file:///C:/Users/hp/Downloads/photo1.jpg](https://github.com/1LAV1/1LAV1/blob/main/photo1.jpg?raw=true)" alt="c" width="40" height="40"/>
+ ![logo](https://github.com/1LAV1/1LAV1/blob/main/photo1.jpg)
 <h1 align="center">Hi 👋, I'm Lav Kumar Singh</h1>
 <h3 align="center">A passionate Deep Learning Student from India</h3>
 
